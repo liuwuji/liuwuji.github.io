@@ -20,10 +20,8 @@ author: Wuji Liu
 ###############################################
 
 navbar-links:
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  News:"https://deanattali.com"
+  Publications: "https://deanattali.com"
   About Me: "aboutme"
 
 ################
