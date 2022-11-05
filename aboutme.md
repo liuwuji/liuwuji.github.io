@@ -10,6 +10,9 @@ Before joining SJTU, I received the PhD degree from Shanghai Jiao Tong Universit
 
 ### Education
 
+2021 Ph.D., Computer Science and Technology, Shanghai Jiao Tong University, Shanghai, China.
+2016 B.S., Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China.
+
 ### Reseach
 
 ### Contact
