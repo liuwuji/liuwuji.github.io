@@ -20,8 +20,8 @@ author: Wuji Liu
 ###############################################
 
 navbar-links:
-  News: "https://deanattali.com"
-  Publications: "https://deanattali.com"
+  Publications: "publications"
+  News: "news"
   About Me: "aboutme"
 
 ################
