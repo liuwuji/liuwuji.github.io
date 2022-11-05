@@ -5,20 +5,18 @@ subtitle: Why you'd want to go on a date with me
 comments: true
 ---
 
-I am an assistant professor at Shanghai Jiao Tong University (SJTU), working on computer architecture design, software-hardware co-design, and GPGPU for flexible/efficient deep learning and cloud gaming applications.
-
-Before joining SJTU, I received the PhD degree from Shanghai Jiao Tong University of Computer Science and Technology in 2021, where I was supervised by Prof. Xiaoyao Liang.
+Before joining xxx, I received the joint PhD degree from Shanghai Jiao Tong University and University of Toronro in 2022.
 
 ### Education
 
-* 2021 Ph.D., Computer Science and Technology, Shanghai Jiao Tong University, Shanghai, China.
-* 2016 B.S., Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China.
+* 2022 Ph.D., Aeronautical and Astronautical Science and Technology, Shanghai Jiao Tong University, Shanghai, China.
+* 2018 Joint Ph.D., Control Science and Engineering, University of Toronto, Toronto, China.
+* 2016 B.S., Automation, Northwestern Polytechnical University, Xi'an, China.
 
 ### Reseach
 
-* Software Hardware Co-design: Flexible/efficient algorithm and architecture co-design
-* Computer Architecture Design: GPGPU architecture, domain specific architecture (DSA), Non-volatile memory (ReRAM)
-* Algorithm: Efficient AI/ML algorithms, e.g., Neural Network Compression Tech
+* Flexible/Soft Robot
+* Robot Design and Control
 
 ### Contact
 
