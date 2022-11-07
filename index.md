@@ -4,4 +4,5 @@ title: Wuji Liu
 subtitle: Ph.D from SJTU and UofT
 cover-img:
     - "assets/img/xinjiang.jpg": "新疆，喀纳斯 (2022-08)" 
+    - "assets/img/casaloma.jpg": "加拿大，多伦多，卡萨罗马城堡 (2018-03)" 
 ---
