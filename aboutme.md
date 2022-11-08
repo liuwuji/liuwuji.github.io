@@ -5,7 +5,7 @@ subtitle: Why you'd want to go on a date with me
 comments: true
 ---
 
-Before joining xxx, I received the joint PhD degree from Shanghai Jiao Tong University and University of Toronro in 2022.
+I received the joint PhD degree from Shanghai Jiao Tong University and University of Toronro in 2022.
 
 ### Education
 
@@ -15,8 +15,9 @@ Before joining xxx, I received the joint PhD degree from Shanghai Jiao Tong Univ
 
 ### Reseach
 
-* Flexible/Soft Robot
+* Flexible Robot/Soft Robot
 * Robot Design and Control
+* Reinforcement Learning in Robots
 
 ### Contact
 
