@@ -49,7 +49,6 @@ round-avatar: true
 social-network-links:
   email: "lkk728@sjtu.edu.cn.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  weibo: "https://weibo.com/u/2166364762"
   #facebook: deanattali
   #github: liuwuji
   #twitter: daattali
