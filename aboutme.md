@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 comments: true
 ---
-
+My research interests include flexible robot, flexible robot control and visual servoing control in flexible robot.
 I received the joint PhD degree from Shanghai Jiao Tong University and University of Toronro in 2022.
 
 ### Education
