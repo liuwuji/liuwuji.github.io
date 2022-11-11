@@ -8,7 +8,7 @@ title: News
 
 * 2022.01. The paper “A Space Bionic Soft Robot Design and Intelligent Planning Simulation Method ” was accepted by Robot.
 
-* 2021.07. The paper “Design, modeling and motion control of a multi-segment SMA driven soft robotic manipulator ” was by the IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Holland.
+* 2021.07. The paper “Design, Modeling and Motion Control of A Multi-segment SMA Driven Soft Robotic Manipulator ” was by the IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Holland.
 
 * 2020.08. The paper “Distance-directed target searching for a deep visual servo sma driven soft robot using reinforcement learning ” was accepted by the Journal of Bionic Engineering.
 
