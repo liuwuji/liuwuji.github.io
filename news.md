@@ -10,7 +10,7 @@ title: News
 
 * 2021.07. The paper “Design, Modeling and Motion Control of A Multi-segment SMA Driven Soft Robotic Manipulator ” was by the IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Holland.
 
-* 2020.08. The paper “Distance-directed target searching for a deep visual servo sma driven soft robot using reinforcement learning ” was accepted by the Journal of Bionic Engineering.
+* 2020.08. The paper “Distance-directed Target Searching for A Deep Visual Servo SMA Driven Soft Robot Using Reinforcement Learning ” was accepted by the Journal of Bionic Engineering.
 
 * 2019.02. The paper “Shape Memory Alloy Driven Soft Robot Design And Position Control Using Continuous Reinforcement Learning” was by the International Conference on Intelligent Autonomous Systems (ICoIAS), Singapore.
 
