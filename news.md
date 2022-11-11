@@ -2,6 +2,8 @@
 layout: page
 title: News
 ---
+* 2022.12. Wuji Liu received the joint Ph.D degree from SJTU and UofT.
+
 * 2022.12. The paper “An Inchworm-snake Inspired Flexible Robotic Manipulator with Multi-section SMA Actuators for Object Grasping” was accepted by the IEEE Transactions on Industrial Electronics.
 
 * 2022.01. The paper “A Space Bionic Soft Robot Design and Intelligent Planning Simulation Method ” was accepted by Robot.
