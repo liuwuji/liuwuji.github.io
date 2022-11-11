@@ -3,7 +3,8 @@ layout: page
 title: News
 ---
 
-* 2022.10. The paper “GCNTrain: A Unified and Efficient Accelerator for Graph Convolutional Neural Networks Training” has been accepted by TIE.
+* 2022.10. The paper “An Inchworm-snake Inspired Flexible Robotic Manipulator with Multi-section SMA Actuators for Object Grasping” has been accepted by IEEE Transactions on Industrial Electronics.
+
 * 
 * 2017.08. Wuji Liu persued the Ph.D degree in UofT as a government-sponsored joint Ph.D candidate.
 * 
