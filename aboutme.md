@@ -10,7 +10,7 @@ I received the joint PhD degree from Shanghai Jiao Tong University and Universit
 ### Education
 
 * 2022 Ph.D., Aeronautical and Astronautical Science and Technology, Shanghai Jiao Tong University, Shanghai, China.
-* 2018 Joint Ph.D., Control Science and Engineering, University of Toronto, Toronto, China.
+* 2018 Joint Ph.D., Aerospace Science and Engineering, University of Toronto, Toronto, China.
 * 2016 B.S., Automation, Northwestern Polytechnical University, Xi'an, China.
 
 ### Reseach
