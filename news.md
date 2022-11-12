@@ -12,7 +12,7 @@ title: News
 
 * 2020.08. The paper “Distance-directed Target Searching for A Deep Visual Servo SMA Driven Soft Robot Using Reinforcement Learning ” was accepted by the Journal of Bionic Engineering.
 
-* 2019.02. The paper “Shape Memory Alloy Driven Soft Robot Design And Position Control Using Continuous Reinforcement Learning” was by the International Conference on Intelligent Autonomous Systems (ICoIAS), Singapore.
+* 2019.02. The paper “Shape Memory Alloy Driven Soft Robot Design And Position Control Using Continuous Reinforcement Learning” was accepted by the International Conference on Intelligent Autonomous Systems (ICoIAS), Singapore.
 
 * 2017.08. Wuji Liu persued the Ph.D degree in UofT as a government-sponsored joint Ph.D candidate.
 
