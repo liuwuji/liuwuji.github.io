@@ -19,3 +19,5 @@ title: News
 * 2017.06. Wuji Liu awarded a scholarship under the State Scholarship Fund from the China Scholarship Council (CSC).
 
 * 2017.04. Wuji Liu was admitted to the Joint Doctoral Placement Program between the SJTU and UofT.
+
+* 2017.04. Wuji Liu was born.
