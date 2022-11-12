@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: publications
 title: An Inchworm-snake Inspired Flexible Robotic Manipulator with Multi-section SMA Actuators for Object Grasping” was accepted by the IEEE Transactions on Industrial Electronics
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
