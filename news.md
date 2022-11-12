@@ -20,4 +20,4 @@ title: News
 
 * 2017.04. Wuji Liu was admitted to the Joint Doctoral Placement Program between the SJTU and UofT.
 
-* 2017.04. Wuji Liu was born.
+* 1994.07. Wuji Liu was born.
