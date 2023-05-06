@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Publications
+title: Honors and Awards
 subtitle: ""
 ---
