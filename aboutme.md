@@ -3,7 +3,7 @@ layout: page
 title: About me
 comments: true
 ---
-In SJTU, my research interests include flexible robot and visual servoing control in flexible robot.
+My research interests include Unmanned Aerial Vehicle, flexible robot and visual servoing control.
 I received the joint PhD degree from Shanghai Jiao Tong University and University of Toronro in 2022.
 
 From 2023, I joined AVIC, working on Fighter and Unmanned Aerial Vehicle.
