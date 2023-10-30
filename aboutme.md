@@ -27,4 +27,4 @@ From 2023, I joined AVIC, working on Fighter and Unmanned Aerial Vehicle.
 
 ### Contact
 
-If you have any questions, welcome to [email me](mailto:lkk728@sjtu.edu.cn)
+Welcome to [email me](mailto:lkk728@126.com)
