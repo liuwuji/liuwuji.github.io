@@ -2,6 +2,9 @@
 layout: page
 title: News
 ---
+
+* 2023.04. Wuji Liu joined AVIC.
+
 * 2022.12. Wuji Liu received the joint Ph.D degree from SJTU and UofT.
 
 * 2022.12. The paper “An Inchworm-snake Inspired Flexible Robotic Manipulator with Multi-section SMA Actuators for Object Grasping” was accepted by the IEEE Transactions on Industrial Electronics.
