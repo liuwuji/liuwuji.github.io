@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Wuji Liu
-subtitle: Ph.D from SJTU and UofT
-subtitle: Aircraft Designer
+subtitle: - Ph.D from SJTU and UofT 
+          - Aircraft Designer
 cover-img:
    - "assets/img/casaloma.jpg": "加拿大，多伦多，卡萨罗马城堡 (2018-03)"
    - "assets/img/IMG_4010.JPG": "古巴，哈瓦那，旧城 (2018-03)"
